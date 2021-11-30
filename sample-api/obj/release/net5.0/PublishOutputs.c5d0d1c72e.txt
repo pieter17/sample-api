@@ -1,0 +1,11 @@
+C:\OCBC NISP\Bootcamp\Sesi13\sample\sample-api\sample-api\bin\release\net5.0\publish\sample-api.exe
+C:\OCBC NISP\Bootcamp\Sesi13\sample\sample-api\sample-api\bin\release\net5.0\publish\appsettings.Development.json
+C:\OCBC NISP\Bootcamp\Sesi13\sample\sample-api\sample-api\bin\release\net5.0\publish\appsettings.json
+C:\OCBC NISP\Bootcamp\Sesi13\sample\sample-api\sample-api\bin\release\net5.0\publish\sample-api.dll
+C:\OCBC NISP\Bootcamp\Sesi13\sample\sample-api\sample-api\bin\release\net5.0\publish\sample-api.deps.json
+C:\OCBC NISP\Bootcamp\Sesi13\sample\sample-api\sample-api\bin\release\net5.0\publish\sample-api.runtimeconfig.json
+C:\OCBC NISP\Bootcamp\Sesi13\sample\sample-api\sample-api\bin\release\net5.0\publish\sample-api.pdb
+C:\OCBC NISP\Bootcamp\Sesi13\sample\sample-api\sample-api\bin\release\net5.0\publish\Microsoft.OpenApi.dll
+C:\OCBC NISP\Bootcamp\Sesi13\sample\sample-api\sample-api\bin\release\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\OCBC NISP\Bootcamp\Sesi13\sample\sample-api\sample-api\bin\release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\OCBC NISP\Bootcamp\Sesi13\sample\sample-api\sample-api\bin\release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
